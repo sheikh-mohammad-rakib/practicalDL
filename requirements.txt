@@ -3,7 +3,7 @@ tensorflow
 tensorflow_datasets
 tensorflow_hub
 matplotlib
-sklearn
+scikit-learn
 numpy
 requests
 PILLOW
